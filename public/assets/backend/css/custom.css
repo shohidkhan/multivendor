@@ -1,0 +1,9 @@
+.parent-menu-active,
+.child-menu-active {
+    background-color: #4b49ac;
+    color: #fff !important;
+}
+.normal-child-menu {
+    color: #7e7e7ed3 !important;
+    background-color: #fff !important;
+}
